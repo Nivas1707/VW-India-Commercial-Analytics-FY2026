@@ -1,0 +1,11 @@
+# Power BI temporary files
+*.tmp
+*.pbit
+
+# OS / Virtual Machine files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large file handling (if .pbix exceeds standard git thresholds, consider Git LFS)
+# *.pbix
