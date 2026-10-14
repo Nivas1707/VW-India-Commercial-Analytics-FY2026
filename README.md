@@ -1,4 +1,4 @@
-img[!Dashboard.png]
+![Alt Text](Dashboard.png)
 # Volkswagen Passenger Cars India: Commercial Analytics Platform (FY2026)
 
 An end-to-end Power BI business intelligence platform tracking commercial performance, variant mix, and regional sales dynamics across Volkswagen India's dealership network.
